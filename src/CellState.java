@@ -1,5 +1,5 @@
 
 public enum CellState {
-	LIVING
+	LIVING, DEAD
 
 }

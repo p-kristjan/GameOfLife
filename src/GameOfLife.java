@@ -5,5 +5,11 @@ public class GameOfLife {
 		// TODO Auto-generated method stub
 		return null;
 	}
+
+	// loob suvalise olekuga
+	public Cell createCell() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
